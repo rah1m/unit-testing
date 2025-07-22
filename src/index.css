@@ -1,11 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 #root {
   @apply mx-auto h-screen w-screen max-w-7xl py-8 md:px-16;
 }
-
 *,
 html,
 body {
