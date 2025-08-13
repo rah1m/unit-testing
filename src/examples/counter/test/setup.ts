@@ -1,1 +1,2 @@
-import '@testing-library/jest-dom';
+// @vitest-environment happy-dom
+import '@testing-library/jest-dom/extend-expect';
